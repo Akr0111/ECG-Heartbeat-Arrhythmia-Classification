@@ -1,2 +1,2 @@
 ## MINOR PROJECT 
-### ECG HEART BEAT CLASSIFICATION # ECG-Heartbeat-Arrhythmia-Classification
+### ECG HEART BEAT CLASSIFICATION # 
